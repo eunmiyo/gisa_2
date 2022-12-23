@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\cdq_1234\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\586414882.index
+\cdp_1234\src\main\java
+C:\cdq_1234\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3315737570.index
+\HRD_1234\src\main\java
+C:\cdq_1234\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4237785614.index
+\HRD_5678\src\main\java
+C:\cdq_1234\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\834560646.index
+\HRD_1234_easy\src\main\java
+C:\cdq_1234\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3573818742.index
+\cdp_1234\src\main\java
