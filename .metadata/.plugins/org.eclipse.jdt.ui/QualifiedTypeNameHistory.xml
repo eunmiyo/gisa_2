@@ -5,4 +5,5 @@
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="DAO.VaccineDAO"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 </qualifiedTypeNameHistroy>

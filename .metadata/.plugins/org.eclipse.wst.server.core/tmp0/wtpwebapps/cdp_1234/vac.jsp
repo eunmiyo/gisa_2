@@ -16,32 +16,32 @@
 	<%@ include file="top.jsp" %>
 	<section>
 		<div class="title">백신접종예약</div>
-		<form name="frm" action="insert">
+		<form name="frm" action="vaccine">
 			<div class="wrapper">
 			<table>
 				<tr>
 					<th>접종예약번호</th>
-					<td><input type="text" name="resvno"></td>
+					<td><input type="text" name="resvno"><span>예) 20210001 </span></td>
 				</tr>
 				<tr>
 					<th>주민번호</th>
-					<td><input type="text" name="jumin"></td>
+					<td><input type="text" name="jumin"><span>예) 710101-1000001</span></td>
 				</tr>
 				<tr>
 					<th>백신코드</th>
-					<td><input type="text" name="vcode"></td>
+					<td><input type="text" name="vcode"><span>예) V001~V003</span></td>
 				</tr>
 				<tr>
 					<th>병원코드</th>
-					<td><input type="text" name="hcode"></td>
+					<td><input type="text" name="hcode"><span>예) H001</span></td>
 				</tr>
 				<tr>
 					<th>예약일자</th>
-					<td><input type="text" name="resvdate"></td>
+					<td><input type="text" name="resvdate"><span>예) 20211231</span></td>
 				</tr>
 				<tr>
 					<th>예약시간</th>
-					<td><input type="text" name="resvtime"></td>
+					<td><input type="text" name="resvtime"><span>예) 1230</span></td>
 				</tr>
 				<tr>
 					<td colspan="2">

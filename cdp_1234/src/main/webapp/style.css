@@ -50,6 +50,17 @@ a:hover {
 	cursor: pointer;
 }
 
+.title {
+	font-size: 30px;
+	text-align: center;
+	font-weight: 900;
+	margin: 3rem;
+}
+
+table {
+	
+}
+
 footer {
 	position: fixed;
 	bottom: 0;

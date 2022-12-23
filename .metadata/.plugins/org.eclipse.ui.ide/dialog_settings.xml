@@ -15,4 +15,12 @@
 			<item value="C:\cdq_1234\cdp_1234\src\main\webapp\WEB-INF\web.xml"/>
 		</list>
 	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="654"/>
+		<item key="DIALOG_Y_ORIGIN" value="341"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
 </section>

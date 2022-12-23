@@ -32,8 +32,20 @@ public class VaccineDAO {
 		try {
 			conn = getConnection();
 			String sql = "INSERT INTO TBL_VACCRESV_202108 VALUES(?, ?, ?, ?, ?, ?)";
+			
 			ps = conn.prepareStatement(sql);
+			
 			ps.setString(1, resvno);
+			ps.setString(2, jumin);
+			ps.setString(3, vcode);
+			ps.setString(4, hcode);
+			ps.setString(5, resvdate);
+			ps.setString(6, resvtime);
+			
+			result = ps.executeUpdate();
+			
+			conn.close();
+			ps.close();			
 			
 		} catch (Exception e) {
 			e.printStackTrace();
